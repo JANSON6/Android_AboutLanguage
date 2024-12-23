@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AboutLanguage</string>
+
+    <string name="text1">Java</string>
+    <string name="text2">C++</string>
+    <string name="text3">C#</string>
+
+</resources>
